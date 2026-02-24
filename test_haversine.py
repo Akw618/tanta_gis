@@ -1,4 +1,4 @@
-from geo_distance import haversine
+from geometry import haversine
 
 
 def test_same_point_should_return_zero():
